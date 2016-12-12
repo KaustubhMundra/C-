@@ -1,0 +1,362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"t"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"x",
+				"x2-x1"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"stri",
+				"string"
+			],
+			[
+				"string",
+				"stringList"
+			],
+			[
+				"st",
+				"stringList"
+			],
+			[
+				"int",
+				"initArr"
+			],
+			[
+				"min",
+				"minAssign"
+			],
+			[
+				"Bas",
+				"BASE_DIR"
+			],
+			[
+				"sh",
+				"share_string"
+			],
+			[
+				"pre_save",
+				"pre_save_post_receiver"
+			],
+			[
+				"upload",
+				"upload_location"
+			],
+			[
+				"he",
+				"height_field"
+			],
+			[
+				"w",
+				"width_field"
+			],
+			[
+				"ob",
+				"object_list"
+			],
+			[
+				"col",
+				"col-sm-12"
+			],
+			[
+				"ENV",
+				"ENV_ROLE"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kaustubhmundra/Desktop/ICPC/5.cpp",
+		"/Users/kaustubhmundra/Desktop/ICPC/4.cpp",
+		"/Users/kaustubhmundra/Desktop/ICPC/1.cpp",
+		"/Users/kaustubhmundra/Desktop/ICPC/5.cp",
+		"/Users/kaustubhmundra/Desktop/ICPC/2.cpp",
+		"/Users/kaustubhmundra/Desktop/ICPC/3.cpp",
+		"/Users/kaustubhmundra/Desktop/Ainvayi/hackerrank/C++/virtualfunctions.cpp",
+		"/Users/kaustubhmundra/Desktop/Ainvayi/hackerrank/C++/variablesizedarrays.cpp",
+		"/Users/kaustubhmundra/Desktop/Ainvayi/hackerrank/SparseArrays.cpp",
+		"/Users/kaustubhmundra/Desktop/Ainvayi/hackerrank/LeftRotation.cpp",
+		"/Users/kaustubhmundra/Desktop/Ainvayi/hackerrank/dynamicarraylist.cpp",
+		"/Users/kaustubhmundra/Desktop/Ainvayi/hackerrank/hourglass.cpp",
+		"/Users/kaustubhmundra/Desktop/Ainvayi/hackerrank/vectorarray.cpp",
+		"/Users/kaustubhmundra/Desktop/Ainvayi/hackerrank/array.cpp",
+		"/Users/kaustubhmundra/Desktop/Ainvayi/Data Structures And Algo/Stacks/StackReverseRecursion.cpp",
+		"/Users/kaustubhmundra/Desktop/Ainvayi/Data Structures And Algo/Stacks/twoStacks.cpp",
+		"/Users/kaustubhmundra/Desktop/new.cpp",
+		"/Users/kaustubhmundra/Desktop/fault.cpp",
+		"/Users/kaustubhmundra/Desktop/try.cpp",
+		"/Users/kaustubhmundra/Desktop/gs.cpp",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/posts/tests.py",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/trydjango19/settings.py",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/static/css/base.css",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/trydjango19/urls.py",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/templates/post_detail.html",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/templates/post_list.html",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/templates/messages_display.html",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/templates/base.html",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/templates/post_form.html",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/posts/forms.py",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/posts/urls.py",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/posts/models.py",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/templates/index.html",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/posts/views.py",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/posts/admin.py",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/crud.md",
+		"/Users/kaustubhmundra/Desktop/Django/trydjango19/src/posts/migrations/0001_initial.py",
+		"/Users/kaustubhmundra/Desktop/Python/Tp/hello.py",
+		"/Users/kaustubhmundra/Desktop/Python/Tp/pass.py",
+		"/Users/kaustubhmundra/Desktop/Python/Tp/iter.py",
+		"/Users/kaustubhmundra/Desktop/Python/Tp/fibonacci.py",
+		"/yo.cgi",
+		"/Users/kaustubhmundra/Desktop/Django/crmeasy/crmapp/wsgi.py",
+		"/Users/kaustubhmundra/Desktop/Django/crmeasy/crmapp/marketing/views.py",
+		"/Users/kaustubhmundra/Desktop/Django/crmeasy/crmapp/templates/base.html",
+		"/Users/kaustubhmundra/Desktop/Django/crmeasy/crmapp/settings.py",
+		"/Users/kaustubhmundra/Desktop/Django/crmeasy/crmapp/static/js/app.js",
+		"/Users/kaustubhmundra/Desktop/Django/crmeasy/crmapp/static/css/app.css",
+		"/Users/kaustubhmundra/Desktop/Django/crmeasy/crmapp/static/js/jquery.min.js",
+		"/Users/kaustubhmundra/Desktop/Django/crmeasy/crmapp/static/js/bootstrap.min.js",
+		"/Users/kaustubhmundra/Desktop/Django/crmeasy/crmapp/static/css/bootstrap.min.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"x",
+			"9999999999",
+			"mp",
+			"long long",
+			"1000000005",
+			"chk",
+			"A",
+			"temp",
+			"flag1",
+			"flag",
+			"mp",
+			"chk",
+			"mp",
+			"ll",
+			"s",
+			"arr",
+			"l",
+			"a",
+			"list",
+			"tStamp",
+			"timestamp",
+			"unsigned",
+			"Timestamp",
+			"tstamp",
+			"stamp",
+			"s",
+			"stoull",
+			"min",
+			"minmin",
+			"wizard",
+			"app",
+			"id",
+			"sm",
+			"post_create",
+			"create",
+			"__future__"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"number",
+			"99999",
+			"count",
+			"int",
+			"9999999999",
+			"var",
+			"vector",
+			"var",
+			"newCount",
+			"count",
+			"random",
+			"count",
+			"long long",
+			"stringList",
+			"initArr",
+			"size",
+			"query",
+			"queue",
+			"minAssign"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 159.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CS210.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
